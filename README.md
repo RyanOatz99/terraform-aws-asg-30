@@ -1,1 +1,2 @@
 # terraform-aws-asg
+Terraform provides modules which allow us to abstract away re-usable parts, which we can configure once, and use everywhere. Modules allow us to group resources together, define input variables which are used to change needed resource configuration parameters, define output variables that other resources or modules can use. Modules are basically like files with exposed input and output variables which facilitate reuse. 
